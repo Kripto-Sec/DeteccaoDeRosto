@@ -1,4 +1,5 @@
 # Detecção de rosto usando o OpenCV
+### python versao 2.7 recomendado
 # Para usar
 ## cd deteccaoDeRosto
 ## cd Face Detection
