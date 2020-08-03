@@ -3,7 +3,7 @@ import cv2
 print '###################################'
 print '#          FACE DETECT            #'
 print '#                                 #'
-print '# https://github.com/BaianoNuclear#'
+print '# https://github.com/Kripto-Sec   #'
 print '###################################'
 
 
