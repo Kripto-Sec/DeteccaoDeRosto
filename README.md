@@ -1,5 +1,5 @@
 # Detecção Facial
-Script em python que ultiliza o OpenCV para fazer o a detecção facial
+Script em python que ultiliza o OpenCV para fazer o a detecção facial em tempo real pela webcam ou por imagens
 ## Pre-requisitos
 ```
 python version 2.7
